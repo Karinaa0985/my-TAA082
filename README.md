@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SurakshaPath - Campus Safety Web App
 
 ## Project Description
@@ -69,3 +70,7 @@ https://github.com/user-attachments/assets/cb4be607-4b91-4c71-bb4e-324267e3a97d
 
 ---
 *Developed for PCE Hackathon*
+=======
+# my-TAA082
+Haxkathon project at PCE, Nagpur
+>>>>>>> 0c5363f96af62672ffeb3b4c913206520c2083de
